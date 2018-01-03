@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background: url('./christmas-dark.png'); 
+  /* from https://www.toptal.com/designers/subtlepatterns/ */
+  color: white;
+  box-sizing: border-box;
+}
